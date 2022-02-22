@@ -1,0 +1,15 @@
+// {
+//     "liveSassCompile.settings.formats":[ { // 참조 문서에서 압축관련 확인 
+//         "format": "compressed", 
+//         // output 파일 
+//         "extensionName": ".min.css", 
+//         // output 파일경로 
+//         "savePath": "~/" 
+//         } ], 
+//         // map 생성 여부 
+//         "liveSassCompile.settings.generateMap": true, 
+//         // 크로스브라우징 
+//         "liveSassCompile.settings.autoprefix": [ "> 1%", "last 2 versions" ], 
+//         // 모든 .scss 파일 
+//         "liveSassCompile.settings.includeItems":[ "*.scss" ]
+// }
